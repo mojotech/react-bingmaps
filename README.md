@@ -18,7 +18,7 @@ The main purpose of this version is to help you to write Bingmaps in React appli
 * Get Location on Mouse Events
 * Regular Polygon
 * Boundary
-* Polyline
+* Polylines
 * Directions
 
 ## Installation
